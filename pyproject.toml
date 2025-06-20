@@ -3,7 +3,7 @@ requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "python-parallel"
+name = "python-coexist"
 version = "0.1.1"
 description = "Run multiple code statements concurrently using a simple and Pythonic context manager"
 readme = "README.md"
@@ -12,7 +12,7 @@ license = {text = "MIT"}
 authors = [
   { name="Omer Menashe", email="unspecified@mail.com" }
 ]
-keywords = ["python-parallel", "parallel"]
+keywords = ["python-coexist", "coexist"]
 classifiers = [
     "Programming Language :: Python :: 3",
     "License :: OSI Approved :: MIT License",
@@ -20,4 +20,4 @@ classifiers = [
 ]
 
 [project.urls]
-"Source" = "https://github.com/iamomerm/python-parallel"
+"Source" = "https://github.com/iamomerm/python-coexist"
